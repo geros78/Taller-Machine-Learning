@@ -104,7 +104,7 @@ svc.fit(x_train, y_train)
 
 #Metricas del modelo
 
-print('*'*50)
+print('-'*60)
 print('Maquina de soporte vectorial')
 
 #accuracy de test de Entrenamiento de entrenamiento
@@ -133,7 +133,7 @@ arbol.fit(x_train, y_train)
 
 #Metricas del modelo
 
-print('*'*50)
+print('-'*60)
 print('Decision Tree')
 
 #accuracy de test de Entrenamiento de entrenamiento
